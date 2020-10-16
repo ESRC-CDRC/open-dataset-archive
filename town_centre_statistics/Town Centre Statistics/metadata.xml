@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codeBook xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xmlns="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<docDscr>
+		<citation>
+			<titlStmt>
+				<titl>DDI2.5 XML CODEBOOK</titl>
+			</titlStmt>
+		</citation>
+	</docDscr>
+	<stdyDscr>
+		<citation>
+			<titlStmt>
+				<titl>CDRC Maps Pre and Post Recession Town Centre Statistics
+				</titl>
+				<altTitl/>
+			</titlStmt>
+			<rspStmt>
+				<AuthEnty>Alex Singleton, University of Liverpool</AuthEnty>
+				<othId/>
+			</rspStmt>
+			<prodStmt>
+				<producer>ESRC Consumer Data Research Centre </producer>
+				<copyright>The following attribution statements must be used to acknowledge copyright and source in use of these datasets:
+                  Data from the Local Data Company;
+             Data analysis by the ESRC Consumer Data Research Centre.
+                </copyright>
+				<fundAg>Economic and Social Research Council</fundAg>
+				<grantNo>ES/L011840/1</grantNo>
+			</prodStmt>
+			<distStmt>
+				<depositr>Alex Singleton, University of Liverpool</depositr>
+				<distDate></distDate>
+			</distStmt>
+			<serStmt>
+				<serName>CDRC Maps Retail Centre Locations</serName>
+			</serStmt>
+			<verStmt>
+				<version></version>
+			</verStmt>
+		</citation>
+		<stdyInfo>
+			<subject>
+				<keyword>Retail Centre</keyword>
+   <topcClas>Retail</topcClas>
+			</subject>
+			<abstract>These data represent the composition and vacancy rates of retail centres in 2009 and 2014. They were created using two extracts supplied by the Local Data Company (LDC); with the centres defined by the retail cores contained within the DCLG State of the Cities Report - http://goo.gl/mtX1aB
+			</abstract>
+			<sumDscr>
+				<timePrd>2015</timePrd>
+				<collDate></collDate>
+				<nation>England</nation>
+				<nation>Wales</nation>
+				<geogCover>England</geogCover>
+				<geogCover>Wales</geogCover>
+				<geogUnit>Retail Centre</geogUnit>
+				<anlyUnit>Retail Centre</anlyUnit>
+				<universe/>
+				<dataKind>Location</dataKind>
+			</sumDscr>
+		</stdyInfo>
+		<method>
+			<dataColl>
+				<timeMeth/>
+				<dataCollector>Local Data Company</dataCollector>
+				<sampProc/>
+				<deviat/>
+				<collMode/>
+				<sources>
+					<dataSrc>Centroids of Retail Centre Locations (DCLG Definition)</dataSrc>
+				</sources>
+				<weight/>
+			</dataColl>
+		</method>
+		<dataAccs>
+			<setAvail>
+				<accsPlac>Consumer Data Research Centre</accsPlac>
+				<accsPlac>UK Data Service</accsPlac>
+			</setAvail>
+			<useStmt>
+				<restrctn/>
+				<contact>data@cdrc.ac.uk</contact>
+			</useStmt>
+		</dataAccs>
+		<othrStdyMat>
+			<relStdy/>
+			<relPubl></relPubl>
+			<othRefs/>
+		</othrStdyMat>
+	</stdyDscr>
+</codeBook>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codeBook xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xmlns="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<docDscr>
+		<citation>
+			<titlStmt>
+				<titl>DDI2.5 XML CODEBOOK</titl>
+			</titlStmt>
+		</citation>
+	</docDscr>
+	<stdyDscr>
+		<citation>
+			<titlStmt>
+				<titl>CDRC Estimated Change in the Rateable Value of Retail Premises
+				</titl>
+				<altTitl/>
+			</titlStmt>
+			<rspStmt>
+				<AuthEnty>Alex Singleton, University of Liverpool</AuthEnty>
+				<othId/>
+			</rspStmt>
+			<prodStmt>
+				<producer>ESRC Consumer Data Research Centre </producer>
+				<copyright>The following attribution statements must be used to acknowledge copyright and source in use of these datasets:
+                    Retail Data Supplied by the Local Data Company, Colliers International Ltd and the Valuation Office Agency;
+             Contains Ordnance Survey data © Crown copyright and database right 2015;
+             Data analysis by the ESRC Consumer Data Research Centre.
+                </copyright>
+				<fundAg>Economic and Social Research Council</fundAg>
+				<grantNo>ES/L011840/1</grantNo>
+				<grantNo>ES/L003546/1</grantNo>
+			</prodStmt>
+			<distStmt>
+				<depositr>Alex Singleton, University of Liverpool</depositr>
+				<distDate></distDate>
+			</distStmt>
+			<serStmt>
+				<serName>CDRC Estimated Change in the Rateable Value of Retail Premises</serName>
+			</serStmt>
+			<verStmt>
+				<version></version>
+			</verStmt>
+		</citation>
+		<stdyInfo>
+			<subject>
+				<keyword>VOA</keyword>
+				<keyword>Ratable Value</keyword>
+   <topcClas>Retail</topcClas>
+			</subject>
+			<abstract>These data provide the output of a model that explores the variable impact of the recession on current retail business rates. Regionally adjusted values are presented at the local authority scale for England; alongside retail centre adjusted values for a series of case study locations. These data were generated for a report produced in collaboration with the Local Data Company. Ancillary data used within the model were supplied by the Valuation Office Agency and Colliers International Ltd.
+			</abstract>
+			<sumDscr>
+				<timePrd>2015</timePrd>
+				<collDate></collDate>
+				<nation>England</nation>
+				<nation>Wales</nation>
+				<geogCover>England</geogCover>
+				<geogCover>Wales</geogCover>
+				
+				<geogUnit>Local Authority District</geogUnit>
+				
+				<anlyUnit>Area</anlyUnit>
+				<anlyUnit>Retail Centre</anlyUnit>
+				<universe/>
+				<dataKind>Rate</dataKind>
+			</sumDscr>
+		</stdyInfo>
+		<method>
+			<dataColl>
+				<timeMeth/>
+				<dataCollector>Ordnance Survey</dataCollector>
+				<dataCollector>Local Data Company</dataCollector>
+				<dataCollector>Colliers International Ltd.</dataCollector>
+				<dataCollector>Valuation Office Agency.</dataCollector>
+				<sampProc/>
+				<deviat/>
+				<collMode/>
+				<sources>
+					<dataSrc>CDRC Estimated Change in the Rateable Value of Retail Premises</dataSrc>
+					<dataSrc>Local authority district (GB) 2011 Boundaries (Full, Clipped)</dataSrc>
+					<dataSrc>Centroids of Retail Centre Locations (DCLG Definition)</dataSrc>
+				</sources>
+				<weight/>
+			</dataColl>
+		</method>
+		<dataAccs>
+			<setAvail>
+				<accsPlac>Consumer Data Research Centre</accsPlac>
+				<accsPlac>UK Data Service</accsPlac>
+			</setAvail>
+			<useStmt>
+				<restrctn/>
+				<contact>data@cdrc.ac.uk</contact>
+			</useStmt>
+		</dataAccs>
+		<othrStdyMat>
+			<relStdy/>
+			<relPubl></relPubl>
+			<othRefs/>
+		</othrStdyMat>
+	</stdyDscr>
+</codeBook>

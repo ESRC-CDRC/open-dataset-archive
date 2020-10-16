@@ -1,0 +1,8 @@
+TC2004_ID - DCLG Retail Centre ID
+NAME - DCLG Retail Centre Name
+TotalOfPremise - Number of premises
+Comparison_Prop	- Proportion of comparison premises
+Convenience_Prop - Proportion of convenience premises
+Leisure_Prop - Proportion of leisure premises
+Services_Prop - Proportion of service premises
+Vacant_Prop - Proportion of vacant premises

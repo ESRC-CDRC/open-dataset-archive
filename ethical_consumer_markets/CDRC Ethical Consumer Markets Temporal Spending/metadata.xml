@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codeBook xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xmlns="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<docDscr>
+		<citation>
+			<titlStmt>
+				<titl>Ethical Consumer Market Temporal Spending</titl>
+			</titlStmt>
+		</citation>
+	</docDscr>
+	<stdyDscr>
+		<citation>
+			<titlStmt>
+				<titl>Ethical Consumer Market Temporal Spending</titl>
+				<altTitl></altTitl>
+			</titlStmt>
+			<rspStmt>
+				<AuthEnty>Ethical Consumer</AuthEnty>
+				<othId></othId>
+			</rspStmt>
+			<prodStmt>
+				<producer>Ethical Consumer</producer>
+				<copyright></copyright>
+				<fundAg>ESRC</fundAg>
+
+			</prodStmt>
+			<distStmt>
+				<contact>data@cdrc.ac.uk </contact>
+				<depositr>Consumer Data Research Centre</depositr>
+
+				<distDate date="2015-10-02T00:00:00Z">2015-10-01</distDate>
+			</distStmt>
+			<serStmt>
+				<serName>Ethical Consumer Market Temporal Spending</serName>
+			</serStmt>
+			<verStmt>
+				<version date="2015-10-02T00:00:00Z">
+					1.0</version>
+			</verStmt>
+		</citation>
+		<stdyInfo>
+			<subject>
+				<keyword>Economy</keyword>
+				<keyword>Ethical Spending</keyword>
+				<keyword>UK</keyword>
+			<keyword>Shopping</keyword>
+				<topcClas>Retail</topcClas>
+			</subject>
+			<abstract>The Ethical Consumer Markets Report has been produced annually by Ethical Consumer (ECRA) since 1999 and aims to provide a barometer on ethical spending in the UK. This data pack has the background data in CSV format from these reports, 1999-2013.  It is published in partnership between the ESRC Consumer Data Research Centre and ECRA.
+			The data presents information about the total and sectorial consumer spending on ethical purchasing.	For further information please visit: http://www.ethicalconsumer.org/
+			</abstract>
+			<sumDscr>
+				<timePrd>1999-2013</timePrd>
+				<collDate>1999-2013</collDate>
+				<nation>UK</nation>
+				<geogCover>UK</geogCover>
+				<geogUnit>National</geogUnit>
+				<anlyUnit>GBP</anlyUnit>
+				<universe>National</universe>
+				<dataKind>CSV</dataKind>
+			</sumDscr>
+		</stdyInfo>
+		<method>
+			<dataColl>
+				<timeMeth></timeMeth>
+				<dataCollector>Ethical Consumer</dataCollector>
+				<sampProc></sampProc>
+				<deviat></deviat>
+				<collMode></collMode>
+				<sources><dataSrc>Ethical Consumer</dataSrc></sources>
+				<weight></weight>
+			</dataColl>
+		</method>
+		<dataAccs>
+			<setAvail>
+				<accsPlac>Ethical Consumer, Manchester</accsPlac>
+			</setAvail>
+			<useStmt>
+				<restrctn></restrctn>
+        <contact>http://www.ethicalconsumer.org/contactus.aspx</contact>
+		<contact>data@cdrc.ac.uk</contact>
+			</useStmt>
+		</dataAccs>
+		<othrStdyMat>
+			<relStdy></relStdy>
+			<relPubl></relPubl>
+			<othRefs></othRefs>
+		</othrStdyMat>
+	</stdyDscr>
+</codeBook>

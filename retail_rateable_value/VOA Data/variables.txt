@@ -1,0 +1,19 @@
+LAD_CODE - Local Authority District Code
+LAD_NAME - Local Authority District Name
+Av_08 - Average rateable value (£/m2) in 2008
+Comp0812 - Comparison retail adjusted value 2012 (£/m2)
+Comp_08 - Comparison average rateable value (£/m2) in 2008
+Con0812 - Convenience retail adjusted value 2012 (£/m2)
+Conv_08 - Convenience average rateable value (£/m2) in 2008
+Lei0812 - Leisure retail adjusted value 2012 (£/m2)
+Lei_08 - Leisure average rateable value (£/m2) in 2008
+Ser0812 - Service retail adjusted value 2012 (£/m2)
+Serv_08 - Service average rateable value (£/m2) in 2008
+UID - DCLG Retail Centre ID
+NAME - DCLG Retail Centre Name
+CompCn_15 - Comparison retail adjusted value 2015 (£/m2) 
+ConCh_15 - Convenience retail adjusted value 2015 (£/m2)
+LeiCh_15 - Leisure retail adjusted value 2015 (£/m2)
+SerCh_15 -  Service retail adjusted value 2015 (£/m2)
+EASTING - Easting co-ordinates of the retail centre
+NORTHING - Northing co-ordinates of the retail centre
