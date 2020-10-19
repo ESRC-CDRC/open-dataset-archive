@@ -22,4 +22,4 @@ Source|ONS (England/Wales), NRS (Scotland), NISRA (Northern Ireland)
 Publication Year|2016
 Geography URL|https://geoportal.statistics.gov.uk/
 CDRC Map URL|https://maps.cdrc.ac.uk/#/metrics/ruralurban/
----
+
