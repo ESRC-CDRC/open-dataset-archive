@@ -21,7 +21,5 @@ Source URL|https://www.gov.uk/government/statistics/2011-rural-urban-classificat
 Source|ONS (England/Wales), NRS (Scotland), NISRA (Northern Ireland)
 Publication Year|2016
 Geography URL|https://geoportal.statistics.gov.uk/
-Attribution Statement|Oliver O'Brien, UCL Department of Geography
-Citation|O. O'Brien.
 CDRC Map URL|https://maps.cdrc.ac.uk/#/metrics/ruralurban/
 ---
