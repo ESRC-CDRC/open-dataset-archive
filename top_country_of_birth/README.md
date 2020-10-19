@@ -12,7 +12,6 @@ Data Collector|ONS, NRS, NISRA
 Geographical Scale|Output Area
 Analytical Units|Person
 Bounding box|United Kingdom
-Source URL|https://www.nomisweb.co.uk/census/2011/QS203EW (https://www.nomisweb.co.uk/census/2011/QS203
-EW)
+Source URL|https://www.nomisweb.co.uk/census/2011/QS203EW (https://www.nomisweb.co.uk/census/2011/QS203EW)
 Geography URL|https://github.com/geogale/2011OAC
 CDRC Map URL|https://maps.cdrc.ac.uk/#/metrics/countryofbirth/
