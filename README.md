@@ -1,6 +1,6 @@
-# CDRC Data Archive
+# Open Dataset Archive
 
-Open datasets which were not included with Version 2 of CDRC Data (https://data.cdrc.ac.uk/), are included here instead as an archive.
+Open datasets which were not included with Version 2 of CDRC Data (https://data.cdrc.ac.uk/), are included here instead in lieu of being deleted.
 
 In February 2020, CDRC launched Version 2 of CDRC Data, its data portal for open datasets collected, aggregated and enhanced by the ESRC CDRC (Consumer Data Research Centre) under its Open tier, along with listings, metadata and application forms for its non-open datasets categorised under the Safeguarded and Secure tiers.
 
