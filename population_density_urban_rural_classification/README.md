@@ -1,8 +1,11 @@
 This dataset combines the most recently available small-area population density and urban/rural
 classification information available from the three UK national statistics agencies - ONS/NOMIS (2011,
 England/Wales), NRS (2011 and 2013-4, Scotland) and NISRA/NINIS (2011 and 2015-6, Northern Ireland).
+
 Because the three agencies use slightly different ways of creating their urban/rural classifications, a
-bespoke unified classification is created by combining them. Analysts should note that, while ONS considers
+bespoke unified classification is created by combining them. 
+
+Analysts should note that, while ONS considers
 "City and Town in a Sparse Setting" (C2) to be Urban, it is treated as Rural (R2) in the unified classification,
 because the unified classification makes an equivalence between "remote" and "sparse" population areas
 and does not consider either to be urban, regardless of settlement population size. Therefore, analysts
