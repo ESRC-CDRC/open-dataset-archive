@@ -11,7 +11,6 @@ Files:
 
 Field	| Value
 --- | ---
-
 Date Range|	2001
 Geographical Scales	| Output Areas (2001 Geography)
 Analytical Units |	Person
