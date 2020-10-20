@@ -1,3 +1,5 @@
+## Residential Population Density with Urban/Rural Classification
+
 The ruralurban dataset combines the most recently available small-area population density and urban/rural
 classification information available from the three UK national statistics agencies - ONS/NOMIS (2011,
 England/Wales), NRS (2011 and 2013-4, Scotland) and NISRA/NINIS (2011 and 2015-6, Northern Ireland).
@@ -25,6 +27,8 @@ Source|ONS (England/Wales), NRS (Scotland), NISRA (Northern Ireland)
 Publication Year|2016
 Geography URL|https://geoportal.statistics.gov.uk/
 CDRC Map URL|https://maps.cdrc.ac.uk/#/metrics/ruralurban/
+
+## Workplace Population Density 
 
 The workplace population dataset is a merge of the NOMIS (England & Wales) and NRS (Scotland) Workplace Population Density files
 from the 2011 Census. The original records are at https://www.nomisweb.co.uk/census/2011/wp102ew
