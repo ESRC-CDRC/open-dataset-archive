@@ -1,3 +1,8 @@
+This page details two datasets:
+
+* Residential Population Density with Urban/Rural Classification
+* Workplace Population Density 
+
 ## Residential Population Density with Urban/Rural Classification
 
 The ruralurban dataset combines the most recently available small-area population density and urban/rural
