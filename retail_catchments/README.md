@@ -1,4 +1,6 @@
-The 2017 CDRC Retail Catchment files for Comparison and Convenience areas. The geographies are used in CDRC Data - activated under the Centres and Catchments panel, they are the larger boundaries seen when selecting Convenience and/or Comparison, and clicking on a coloured dot on the map.
+The 2017 CDRC Retail Catchment files for Comparison and Convenience areas.
+
+The geographies are used in CDRC Maps - activated under the Centres and Catchments panel, they are the larger boundaries seen when selecting Convenience and/or Comparison, and clicking on a coloured dot on the map.
 
 Boundaries and centroids for the retail centres themselves can be found at https://data.cdrc.ac.uk/dataset/retail-centre-definitions - the IDs used there and here match, and the retail centre files include names.
 
